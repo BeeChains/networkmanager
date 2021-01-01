@@ -1,6 +1,6 @@
 ## NETWORK MANAGER 
 
-| [Inner I Net Company](http://dlink.innerinetcompany.hns.to/) | [dlink.hns-domains](http://dlink.hns-domains.hns.to/) | [Contact](https://innerinetcompany.webflow.icontacto/) |
+| [Inner I Net Company](http://dlink.innerinetcompany.hns.to/) | [dlink.hns-domains](http://dlink.hns-domains.hns.to/) | [Contact](mailto:innerinetcompany@gmail.com) |
 
 [![image](https://user-images.githubusercontent.com/37987346/103447365-5f061800-4c58-11eb-8ca9-9f3719cc7e63.png)](http://shapereality.innerinetcompany.hns.to/)
 
