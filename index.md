@@ -16,5 +16,6 @@ Here are;
 
 Which means yournetwork.networkmanger is available! 
 
-
+# Channel within [#innerinet&company](https://webchat.hybridirc.com/#innerinet&company)
+<iframe src="https://kiwiirc.hybridirc.com/#innerinet&company" allow="microphone; camera; display-capture; fullscreen" style="border:0; width:100%; height:500px;"></iframe>
 
